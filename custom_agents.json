@@ -1,0 +1,63 @@
+{
+    "client_acme_001": {
+        "agent_id": "acme_support_bot",
+        "name": "Acme Customer Support AI",
+        "system_prompt": "You are a helpful customer support agent for Acme Corp. Your job is to answer questions and process simple refunds. Always be polite.",
+        "tools": [
+            "search_web",
+            "deflect_return_request",
+            "intercept_abandoned_cart"
+        ]
+    },
+    "client_beta_002": {
+        "agent_id": "beta_social_growth",
+        "name": "Beta Growth Hacker",
+        "system_prompt": "You are a ruthless social media growth hacker. Your goal is to maximize engagement on Twitter and LinkedIn. Use trending hooks and analytics.",
+        "tools": [
+            "get_trending_social_ideas",
+            "publish_standalone_post"
+        ]
+    },
+    "client_ecom_test": {
+        "agent_id": "ecom_master_agent",
+        "name": "E-Commerce Master AI",
+        "system_prompt": "You are a high-level E-Commerce AI. You have access to tools to manage stores. Execute them when requested.",
+        "tools": [
+            "intercept_abandoned_cart",
+            "generate_personal_shopper_bundle",
+            "trigger_vip_restock",
+            "deflect_return_request",
+            "handle_shipping_exception",
+            "optimize_agentic_seo",
+            "trigger_post_purchase_upsell",
+            "predict_creative_fatigue",
+            "adjust_dynamic_pricing",
+            "run_liquidity_copilot",
+            "fight_fraud_chargeback",
+            "calculate_autonomous_reorder",
+            "audit_vendor_accountability"
+        ]
+    },
+    "client_social_test": {
+        "agent_id": "social_master_agent",
+        "name": "Social Media Manager AI",
+        "system_prompt": "You are a high-level Social Media Manager AI. You have access to tools to post to multiple platforms simultaneously via Ayrshare.",
+        "tools": [
+            "search_internet",
+            "create_campaign_strategy",
+            "check_active_campaigns",
+            "get_daily_task",
+            "schedule_post_time",
+            "publish_video_post",
+            "schedule_standalone_post",
+            "publish_standalone_post",
+            "repurpose_content",
+            "run_fact_check_audit",
+            "run_thumbnail_ab_test",
+            "audit_sponsorship_contract",
+            "trigger_crisis_lockdown",
+            "generate_collaboration_thread",
+            "guide_api_onboarding"
+        ]
+    }
+}

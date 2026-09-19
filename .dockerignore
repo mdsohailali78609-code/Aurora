@@ -1,0 +1,29 @@
+# Version Control and Virtual Environment
+.git
+.gitignore
+.venv
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local Databases and Secrets
+checkpoints.sqlite
+leads.jsonl
+.env
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Temp files
+*.log

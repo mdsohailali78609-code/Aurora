@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Local databases & user data
+*.db
+*.jsonl
+
+# Virtual Environments
+.venv/
+.venv.code-workspace
